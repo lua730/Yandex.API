@@ -8,3 +8,5 @@ Functions:
 - Selecting objects with the cursor
 - View data about organizations at the selected object
 - View the full address and postal code of the selected object 
+
+To start run main.py
